@@ -1,0 +1,10 @@
+{
+  "name": "pub-sub-rabbit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "4lessandrodev <alessandroadm@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pm2": "^5.2.2"
+  }
+}
